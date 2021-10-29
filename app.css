@@ -1,9 +1,9 @@
-.mainheader {padding:  50px 0px 50px 0; background-color:  #53E1CC; color:  #225C53; text-align:  center;}
+.mainheader {padding:  50px 0px 50px 0; background-color:  #53E1CC; color:  #225C53; text-align:  center; font-family: 'Roboto', sans-serif;}
 
 .box1 {padding: 1px 0 0px 0; background-color: #0BA891; color: #225C53; text-align: center;}
 
 .external-media {background-color:  #0BA891;}
 
-h1 {font-size: 90px;}
+h1 {font-size: 90px; font-family: 'Roboto', sans-serif;}
 
 h2 {color:  #000000;}
